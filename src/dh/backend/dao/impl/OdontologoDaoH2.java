@@ -20,7 +20,7 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
             connection = H2Connection.getConnection();
             connection.setAutoCommit(false);
             PreparedStatement preparedStatement = connection.prepareStatement(SQL_INSERT, Statement.RETURN_GENERATED_KEYS);
-            preparedStatement.setInt(1, odontologo.getNumeroMatricula());
+            preparedStatement.setString(1, odontologo.getNumeroMatricula());
             preparedStatement.setString(2, odontologo.getNombre());
             preparedStatement.setString(3, odontologo.getApellido());
             preparedStatement.executeUpdate();

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30d19aee-57ff-442c-8751-eb9a44dd6f85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dh/backend/service/OdontologoService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/create.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dh/backend/dao/impl/OdontologoDaoH2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dh/backend/dao/impl/OdontologoDaoH2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dh/backend/model/Odontologo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dh/backend/model/Odontologo.java" afterDir="false" />
     </list>
@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
