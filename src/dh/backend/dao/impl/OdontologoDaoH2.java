@@ -2,10 +2,12 @@ package dh.backend.dao.impl;
 
 import dh.backend.dao.IDao;
 import dh.backend.model.Odontologo;
+import org.apache.log4j.Logger;
 
 import java.util.List;
 
 public class OdontologoDaoH2 implements IDao<Odontologo> {
+    private static Logger LOGGER = Logger.getLogger(OdontologoDaoH2.class);
     @Override
     public Odontologo registrar(Odontologo odontologo) {
         return null;
