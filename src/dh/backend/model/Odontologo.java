@@ -27,7 +27,7 @@ public class Odontologo {
         this.id = id;
     }
 
-    public String getNumeroMatricula() {
+    public int getNumeroMatricula() {
         return numeroMatricula;
     }
 
