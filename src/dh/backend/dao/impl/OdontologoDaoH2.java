@@ -91,4 +91,9 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
     public List<Odontologo> buscarTodos() {
         return null;
     }
+
+    @Override
+    public void guardar(Odontologo odontologo) {
+        registrar(odontologo);
+    }
 }
