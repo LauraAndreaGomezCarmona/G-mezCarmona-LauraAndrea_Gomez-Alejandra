@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30d19aee-57ff-442c-8751-eb9a44dd6f85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dh/backend/test/OdontologoServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dh/backend/dao/IDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dh/backend/dao/IDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dh/backend/dao/impl/OdontologoDaoH2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dh/backend/dao/impl/OdontologoDaoH2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Backend.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
